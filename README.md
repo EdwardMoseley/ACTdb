@@ -3,15 +3,15 @@ Annotated Clinical Texts from MIMIC
 
 ## Indications with Examples
 
-**Adv. / Metastatic Cancer:** Cancers with very high or imminent mortality (pancreas, esophagus, stomach, cholangiocarcinoma, brain); mention of distant or multi-organ metastasis, where palliative care would be considered (prognosis $< 6$ months).
+**Adv. / Metastatic Cancer:** Cancers with very high or imminent mortality (pancreas, esophagus, stomach, cholangiocarcinoma, brain); mention of distant or multi-organ metastasis, where palliative care would be considered (prognosis < 6 months).
 
 Example: *"h/o cholangiocarcinoma dx in [DATE] s/p resection, with recent CT showing met cholangiocarcinoma"*
 
-**Adv. Heart Disease:** Any consideration for needing a heart transplant; description of severe aortic stenosis (aortic valve area $< 1.0\mathrm{cm}^2$), severe cardiomyopathy, Left Ventricular Ejection Fraction (LVEF) <= 30%. Not sufficient to have a medical history of congestive heart failure (CHF) or myocardial infarction (MI) with stent or coronary artery bypass graft (CABG).
+**Adv. Heart Disease:** Any consideration for needing a heart transplant; description of severe aortic stenosis (aortic valve area < 1.0cm^2, severe cardiomyopathy, Left Ventricular Ejection Fraction (LVEF) <= 30%. Not sufficient to have a medical history of congestive heart failure (CHF) or myocardial infarction (MI) with stent or coronary artery bypass graft (CABG).
 
 Example: *echo in [DATE] showed EF 30%*
 
-**Adv. Lung Disease:** Severe chronic obstructive pulmonary disease (COPD) defined as Gold Stage III-IV, or with a forced expiratory volume during first breath (FEV1) $< 50\%$ of normal, or forced vital capacity (FVC) $< 70\%$, or severe interstitial lung disease (ILD), or Idiopathic pulmonary fibrosis (IPF).
+**Adv. Lung Disease:** Severe chronic obstructive pulmonary disease (COPD) defined as Gold Stage III-IV, or with a forced expiratory volume during first breath (FEV1) < 50% of normal, or forced vital capacity (FVC) <70%, or severe interstitial lung disease (ILD), or Idiopathic pulmonary fibrosis (IPF).
 
 Example: *Pt has significant obstructive and restrictive pulmonary disease, on home oxygen.*
 
@@ -43,7 +43,7 @@ Example: *history of Down's syndrome*
 
 Example: *in setting of missing dialysis for the past week*
 
-**Obesity & Clinical obesity:** BMI $> 30$. Previous history of or being considered for gastric bypass. Insufficient to have abdominal obesity mentioned in physical exam.
+**Obesity & Clinical obesity:** BMI > 30. Previous history of or being considered for gastric bypass. Insufficient to have abdominal obesity mentioned in physical exam.
 
 Example: *past medical history of morbid obesity with weight greater than 300 pounds*
 
